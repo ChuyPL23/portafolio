@@ -57,7 +57,7 @@
 }
 
 #portafolio button:after {
-    content: url('..C:\Users\Pljes\OneDrive\Documents\Academia X\img\lupa.png');
+    content: url('C:\Users\Pljes\OneDrive\Documents\Academia X\img\lupa.png');
     width: 50%;
     position: absolute;
     z-index: 2;
